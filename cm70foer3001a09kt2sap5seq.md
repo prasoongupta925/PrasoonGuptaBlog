@@ -6,7 +6,6 @@ datePublished: Tue Feb 11 2025 12:03:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm70foer3001a09kt2sap5seq
 slug: building-a-selfmanaged-file-share-system-using-nfs-across-cloud-providers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739274770113/79ee1aa0-0ac8-4b25-945e-a51331b54299.png
-tags: cloud, aws, azure, cloud-computing, devops, aws-certified-solutions-architect-associate, devops-articles, nfs
 
 ---
 
