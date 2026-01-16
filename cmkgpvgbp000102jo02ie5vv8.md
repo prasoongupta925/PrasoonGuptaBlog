@@ -5,7 +5,6 @@ seoDescription: "Create a cost-effective logging system with Promtail, Loki, and
 datePublished: Mon Mar 24 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmkgpvgbp000102jo02ie5vv8
 slug: when-your-infrastructure-scales-to-10-servers-logs-become-your-nightmare
-tags: aws, cloud-computing, monitoring, devops, loki, grafana, observability, promtail
 
 ---
 
